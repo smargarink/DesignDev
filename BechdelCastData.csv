@@ -1,0 +1,195 @@
+episode,date_aired,title,guest_name,bechdel_test,Nipple_Rating_Durante_Loftus_Guest,total_nipples,durante,loftus,guest,main_genre,genre ,average_rating,host_average
+3,8-Dec-16,Beauty and the Beast (1991),Courtney Karwal,No,2 (L)[1],NaN,NaN,2,NaN,Fantasy,"Animation, fantasy",2,2
+4,15-Dec-16,Star Wars: A New Hope,Sam Jay,No,2 (D); 1 (L); 1.5 (G),4.5,2,1,1.5,Sci-fi,"Sci-fi, action",1.5,1.5
+5,22-Dec-16,Love Actually,Debra DiGiovanni,Yes,.5 (D); .5 (L); .5 (G),1.5,0.5,0.5,0.5,Rom-com,"Rom-com, christmas",0.5,0.5
+6,29-Dec-16,The Matrix,Matt Donaher,Yes,3.5 (D); 3 (L)[2]; 3 (G),9.5,3.5,3,3,Sci-fi,"Sci-fi, action",3.166666667,3.25
+7,5-Jan-17,Labyrinth,Jenny Zigrino,Yes,1.5 (D); 2 (L); 3 (G),6.5,1.5,2,3,Fantasy,"Fantasy, musical",2.166666667,1.75
+8,12-Jan-17,The Princess Bride,Myq Kaplan,No,2 (D); 1 (L); 1.5 (G),4.5,2,1,1.5,Action,"Action, adventure, comedy",1.5,1.5
+9,19-Jan-17,Mad Max: Fury Road,Will Weldon,Yes,3.75 (D); 3 (L); 4 (G),10.75,3.75,3,4,Action,"Action, post-apocalytic",3.583333333,3.375
+10,26-Jan-17,Fargo,Julia Prescott,Yes,4.5 (D); 4.5 (L); 4.5 (G),13.5,4.5,4.5,4.5,Thiller,"Thiller, black comedy",4.5,4.5
+11,2-Feb-17,Groundhog Day,Jackie Kashian,Yes,2 (D); 3 (L); 2.5 (G),7.5,2,3,2.5,Comedy,"Comedy, fantasy",2.5,2.5
+12,9-Feb-17,Batman (1989),Riley Silverman,No,.5 (D); 1 (L); .5 (G),2,0.5,1,0.5,Action,"Action, superhero",0.666666667,0.75
+13,14-Feb-17,Titanic,Aparna Nancherla,Yes,4 (D); 4 (L); 4 (G),12,4,4,4,Romance,"Romance, disaster",4,4
+14,23-Feb-17,Heathers,Paige Weldon,Yes,2.5 (D); 3 (L); 3 (G),8.5,2.5,3,3,Comedy,"Dark comedy, teen",2.833333333,2.75
+15,2-Mar-17,Single White Female,Ben Rodgers,Yes,4 (D); 4 (L); 4 (G),12,4,4,4,Thiller,"Thiller, psychological, erotic",4,4
+16,9-Mar-17,Runaway Bride,Sophia Benoit,Yes,2 (D); 2.5 (L); 3 (G),7.5,2,2.5,3,Rom-com,Rom-com ,2.5,2.25
+17,16-Mar-17,Coming to America,Amanda Seales,Yes,3 (D); 3.5 (L); 4 (G),10.5,3,3.5,4,Rom-com,Rom-com,3.5,3.25
+18,23-Mar-17,Gigli,Josh Fadem,Yes,1 (D); 1 (L); 1 (G),3,1,1,1,Rom-com,Rom-com,1,1
+19,30-Mar-17,Moana,Natalie Baseman,Yes,5 (D); 5 (L); 5 (G),15,5,5,5,Fantasy,"Animation, fantasy, adventure",5,5
+20,6-Apr-17,Boogie Nights,Josh Androsky,Yes,3.5 (D); 3.5 (L); 5 (G),12,3.5,3.5,5,Drama,"Drama, period drama",4,3.5
+21,13-Apr-17,Hidden Figures,Nina Daniels,Yes,5 (D); 5 (L); 5 (G),15,5,5,5,Drama,"Drama, biographical drama",5,5
+22,20-Apr-17,Clueless,Nikki Glaser,Yes,3.5 (D); 4 (L); 4 (G),11.5,3.5,4,4,Comedy,"Comedy, teen",3.833333333,3.75
+23,27-Apr-17,The Sandlot,Natalie Palamides,No,0 (D); 0 (L); 0 (G),0,0,0,0,Comedy,"Comedy, coming-of-age, sport",0,0
+24,4-May-17,Spice World,Amanda Meadows,Yes,2 (D); 2.5 (L); 2.5 (G),7,2,2.5,2.5,Comedy,"Comedy, musical",2.333333333,2.25
+25,11-May-17,Thelma & Louise,Alexi Wasser,Yes,5 (D); 5 (L); 5 (G),15,5,5,5,Adventure,"Adventure, road trip",5,5
+26,16-May-17,Alien (1979),Eliza Skinner,Yes,4 (D); 4 (L); 5 (G),13,4,4,5,Sci-fi,"Sci-fi, horror",4.333333333,4
+27,22-May-17,Dirty Dancing (1987),Emily Ruskowski,Yes,4 (D); 4 (L); 4.5 (G),12.5,4,4,4.5,Drama,"Drama, romance",4.166666667,4
+28,25-May-17,Pirates of the Caribbean (2003),Ashley Brooke Roberts,No,2 (D); 2 (L); 1.75 (G),5.75,2,2,1.75,Adventure,"Adventure, fantasy",1.916666667,2
+29,1-Jun-17,Mean Girls,Jenny Jaffe,Yes,3 (D); 3.5 (L); 5 (G),11.5,3,3.5,5,Comedy,"Comedy, teen",3.833333333,3.25
+30,8-Jun-17,Wonder Woman (2017),Jessica Chobot,Yes,5 (D); 4.5 (L); 4 (G),13.5,5,4.5,4,Action,"Action, superhero",4.5,4.75
+31,12-Jun-17,The Mummy (1999),Georgea Brooks,No,2 (D); 2 (L); 1 (G),5,2,2,1,Action,"Action, horror",1.666666667,2
+32,15-Jun-17,The Wizard of Oz,Ever Mainard,Yes,5 (D); 5 (L); 5 (G),15,5,5,5,Fantasy,"Fantasy, musical",5,5
+33,22-Jun-17,Transformers (2007),Teresa Lee,No,.5 (D); 0 (L); 1 (G),1.5,0.5,0,1,Action,"Action, Sci-fi",0.5,0.25
+34,29-Jun-17,Harry Potter And The Sorcerer's Stone,Maggie Maye,No,3 (D); 3 (L); 3 (G),9,3,3,3,Fantasy,Fantasy,3,3
+35,6-Jul-17,Spider-Man 2,Sina Grace,No,1 (D); 1.5 (L); 1 (G),3.5,1,1.5,1,Action,"Action, superhero",1.166666667,1.25
+36,13-Jul-17,The Beguiled (2017),Alana Hope Levinson,Yes,2 (D); 2 (L); 0 (G),4,2,2,0,Drama,"Drama, Thiller",1.333333333,2
+37,20-Jul-17,Ghost (1990),Nicole Byer,No,4 (D); 4 (L); 5 (G),13,4,4,5,Romance,"Romance, Fantasy, Thiller",4.333333333,4
+38,27-Jul-17,When Harry Met Sally...,Naomi Ekperigin,No,1 (D); 1 (L); 1 (G),3,1,1,1,Rom-com,Rom-com,1,1
+39,3-Aug-17,Butch Cassidy and the Sundance Kid,Caitlin Gill,No,1 (D); 1.5 (L); 3 (G),5.5,1,1.5,3,Drama,"Drama, Western",1.833333333,1.25
+40,10-Aug-17,Twilight,JT Taylor,Yes,1 (D); 1.5 (L); 1.5 (G),4,1,1.5,1.5,Romance,"Romance, fantasy",1.333333333,1.25
+41,17-Aug-17,Jurassic Park (1993),Steven Ray Morris,Yes,3.5 (D); 3 (L); 3 (G),9.5,3.5,3,3,Adventure,"Sci-fi, adventure",3.166666667,3.25
+42,24-Aug-17,School of Rock,Nina Corcoran,Yes,2.5 (D); 3.5 (L); 4 (G),10,2.5,3.5,4,Comedy,"Comedy, musical",3.333333333,3
+43,31-Aug-17,The Room,Barbara Gray,Yes,0 (D); 1.5 (L); 2 (G),3.5,0,1.5,2,Drama,Drama,1.166666667,0.75
+44,7-Sep-17,Grease 2,Solomon Georgio,Yes,2 (D); 3 (L); 3 (G),8,2,3,3,Comedy,"Comedy, musical",2.666666667,2.5
+45,14-Sep-17,Men in Black,Sam Ike,No,.5 (D); .5 (L); .5 (G),1.5,0.5,0.5,0.5,Action,"Action, comedy, sci-fi",0.5,0.5
+46,21-Sep-17,A League of Their Own,Julia Claire,Yes,4 (D); 4 (L); 5 (G),13,4,4,5,Drama,"Sport, comedy, drama",4.333333333,4
+47,28-Sep-17,Flatliners (1990),Matt McCarthy,Yes,2 (D); 2 (L); 2.5 (G),6.5,2,2,2.5,Horror,"Horror, psychological",2.166666667,2
+48,5-Oct-17,Blade Runner,Hampton Yount,No,1.5 (D); 1 (L); 2 (G),4.5,1.5,1,2,Sci-fi,Sci-fi,1.5,1.25
+49,12-Oct-17,Friday the 13th (1980),Jen Saunderson,Yes,2 (D); 3 (L); 3 (G),8,2,3,3,Horror,"Horror, slasher",2.666666667,2.5
+50,19-Oct-17,Beetlejuice,Mike Abrusci,Yes,2.5 (D); 2 (L); 3 (G),7.5,2.5,2,3,Fantasy,"Fantasy, comedy",2.5,2.25
+52,26-Oct-17,Hocus Pocus,Danielle Perez,Yes,3.5 (D); 4 (L); 4 (G),11.5,3.5,4,4,Fantasy,"Fantasy, comedy",3.833333333,3.75
+53,2-Nov-17,V for Vendetta,Marcella Arguello,Yes,3 (D); 3.5 (L); 3 (G),9.5,3,3.5,3,Action,"Action, drama, dystopian ",3.166666667,3.25
+54,9-Nov-17,Shrek,Atsuko Okatsuka,No,1 (D); 1 (L); 1 (G),3,1,1,1,Comedy,"Animation, comedy",1,1
+55,16-Nov-17,The Craft,Suzee Dunn,Yes,2.5 (D); 2.5 (L); 2.5 (G),7.5,2.5,2.5,2.5,Horror,"Horror, drama",2.5,2.5
+57,30-Nov-17,The Phantom of the Opera (2004),Lindsay Ellis,No,0 (D); 2 (L); 2 (G),4,0,2,2,Musical,"Drama, musical",1.333333333,1
+58,7-Dec-17,A Christmas Story,Brandon Bird,Yes,1.5 (D); 1.5 (L); 2 (G),5,1.5,1.5,2,Comedy,"Comedy, Christmas",1.666666667,1.5
+59,14-Dec-17,The Holiday,Rebecca Bulnes,Yes,.5 (D); 1 (L); 2 (G),3.5,0.5,1,2,Rom-com,"Rom-com, Christmas",1.166666667,0.75
+60,21-Dec-17,Die Hard,Debra DiGiovanni,Yes,1.5 (D); 2.5 (L); 1 (G),5,1.5,2.5,1,Action,Action,1.666666667,2
+61,28-Dec-17,Star Wars: The Force Awakens,Demi Adejuyigbe,Yes,3 (D); 3 (L); 3 (G),9,3,3,3,Sci-fi,"Sci-fi, action",3,3
+62,4-Jan-18,Mrs. Doubtfire,Emily Heller,Yes,2.5 (D); 3 (L); 2.5 (G),8,2.5,3,2.5,Comedy,Comedy,2.666666667,2.75
+63,11-Jan-18,Pulp Fiction,Jake Weisman,Yes,2 (D); 2 (L); 2 (G),6,2,2,2,Drama,"Drama, black comedy, crime",2,2
+64,18-Jan-18,Snow White and the Seven Dwarfs,Jack O'Brien,Yes,0 (D); .5 (L); 0 (G),0.5,0,0.5,0,Fantasy,"Animation, fantasy",0.166666667,0.25
+65,25-Jan-18,The Post,Lizz Winstead,No,2.5 (D); 2 (L); 2 (G),6.5,2.5,2,2,Drama,"Drama, thiller",2.166666667,2.25
+66,1-Feb-18,Girls Trip,Madison Shepard,Yes,4.5 (D); 4.5 (L); 5 (G),14,4.5,4.5,5,Comedy,Comedy,4.666666667,4.5
+67,8-Feb-18,Lady Bird,Charla Lauriston,Yes,5 (D); 5 (L); 5 (G),15,5,5,5,Drama,"Drama, coming-of-age, comedy",5,5
+68,14-Feb-18,Fifty Shades of Grey,Sara Schaefer,Yes,1 (D); 2 (L); 2 (G),5,1,2,2,Romance,"Romance, drama, erotic",1.666666667,1.5
+69,22-Feb-18,The Notebook,Caitlin Gill,No,2.5 (D); 2.5 (L); 2 (G),7,2.5,2.5,2,Romance,"Romance, drama ",2.333333333,2.5
+70,1-Mar-18,Black Panther,Naomi Ekperigin and Ify Nwadiwe,Yes,5 (D); 4.5 (L); 5 (G-E); 5 (G-N),14.5 (W) 19.5 (C)[3],5,4.5,5,Action,"Action, superhero",4.833333333,4.75
+71,8-Mar-18,Josie and the Pussycats,Faye Orlove,Yes,4 (D); 3.5 (L); 5 (G),12.5,4,3.5,5,Comedy,"Comedy, musical",4.166666667,3.75
+72,15-Mar-18,Lara Croft: Tomb Raider,Dani Fernandez,No,1.5 (D); 1.5 (L); 2 (G),5,1.5,1.5,2,Action,"Action, adventure",1.666666667,1.5
+73,22-Mar-18,Pacific Rim,Aristotle Acevedo,No,3 (D); 2 (L); 3 (G),8,3,2,3,Action,"Action, sci-fi, monster",2.666666667,2.5
+74,29-Mar-18,Amélie,Hana Michels,Yes,2 (D); 2 (L); 2.5 (G),6.5,2,2,2.5,Rom-com,Rom-com ,2.166666667,2
+75,5-Apr-18,Mother!,Anna Akana,No,0 (D); 0 (L); [-]2 (G),[-]2,0,0,0,Horror,"Horror, psychological",0,0
+76,12-Apr-18,The Rock,Miles Gray,No,0 (D); 0 (L); 0 (G),0,0,0,0,Action,"Action, thiller",0,0
+77,19-Apr-18,She's All That,Anna Hossnieh,Yes,0 (D); 1 (L); 1 (G),2,0,1,1,Rom-com,"Rom-com, teen",0.666666667,0.5
+78,26-Apr-18,Jumanji (1995) and Jumanji: Welcome to the Jungle (2017),Bodie Reed,Yes/Yes,2/2 (D); 2/2 (L); 2/2 (G),6-Jun,2,2,2,Fantasy,"Fantasy, adventure",2,2
+79,3-May-18,Moulin Rouge!,Daniel O'Brien,Yes,1.5 (D); 1 (L); 1.5 (G),4,1.5,1,1.5,Romance,"Romance, muscial, drama",1.333333333,1.25
+80,10-May-18,But I'm a Cheerleader,Jenny Chalikian,Yes,4.5 (D); 4 (L); 5 (G),13.5,4.5,4,5,Rom-com,"Rom-com, satire",4.5,4.25
+81,17-May-18,Eternal Sunshine of the Spotless Mind,Kate Banford,No,3.5 (D); 4 (L); 4 (G),11.5,3.5,4,4,Drama,"Romance, drama, sci-fi",3.833333333,3.75
+82,24-May-18,Frozen,Chris Farren,Yes,3.75 (D); 3 (L); 3 (G),9.75,3.75,3,3,Fantasy,"Animation, fantasy",3.25,3.375
+83,31-May-18,Aliens (1986),Andrew Ti,Yes,4 (D); 4 (L) [4] (G),12 (W) 8 (C),4,4,4,Sci-fi,"Sci-fi, action",4,4
+84,7-Jun-18,Ocean's Eleven,Edgar Momplaisir,No,0 (D); 0 (L); 5 (G),5,0,0,5,Thiller,"Thiller, heist",1.666666667,0
+85,14-Jun-18,The Royal Tenenbaums,Jenny Yang,Yes,1.5 (D); 1 (L); 1 (G),3.5,1.5,1,1,Comedy,"Comedy, drama",1.166666667,1.25
+86,21-Jun-18,Breakfast at Tiffany's,Gaby Dunn,Yes,1 (D); 2.5 (L); 3 (G),6.5,1,2.5,3,Rom-com,Rom-com,2.166666667,1.75
+87,28-Jun-18,Her,Jesse David Fox,Yes,1.5 (D); 2 (L); 2 (G),5.5,1.5,2,2,Sci-fi,"Sci-fi, rom-com",1.833333333,1.75
+88,5-Jul-18,The Sisterhood of the Traveling Pants,Mary Houlihan,Yes,3.5 (D); 3.5 (L); 3 (G),10,3.5,3.5,3,Comedy,"comedy, drama",3.333333333,3.5
+89,12-Jul-18,Bend It Like Beckham,Subhah Agarwal,Yes,4.5 (D); 4.5 (L); 4.8 (G),13.8,4.5,4.5,4.8,Rom-com,"Sports, Rom-com",4.6,4.5
+90,19-Jul-18,Aladdin,Shereen Lani Younes,No,1.5 (D); 1.5 (L); 1 (G),4,1.5,1.5,1,Fantasy,"Animation, fantasy",1.333333333,1.5
+91,26-Jul-18,Mission: Impossible (1996),Alex Schmidt,No,.5 (D); 1 (L); 1 (G),2.5,0.5,1,1,Action,Action,0.833333333,0.75
+92,2-Aug-18,Wet Hot American Summer,Allison Raskin,No,2.5 (D); 3 (L); 3.5 (G),9,2.5,3,3.5,Comedy,"Comedy, satire",3,2.75
+93,9-Aug-18,Point Break (1991),Anita Sarkeesian,No,.5 (D); 1 (L); 1 (G),2.5,0.5,1,1,Action,Action,0.833333333,0.75
+94,16-Aug-18,500 Days of Summer,Brandie Posey,No,1 (D); 0 (L); 0 (G),1,1,0,0,Rom-com,Rom-com,0.333333333,0.5
+95,23-Aug-18,Mamma Mia!,Miel Bredouw,Yes,2.5 (D); 3 (L); 3 (G),8.5,2.5,3,3,Musical,Musical,2.833333333,2.75
+96,30-Aug-18,Crazy Rich Asians,Teresa Lee and Ceda Xiong,Yes,4.5 (D); 4.5 (L) 4.25 (G-L); 5 (G-X),13.63 (W) 18.25 (C),4.5,4.5,4.625,Rom-com,Rom-com,4.541666667,4.5
+97,6-Sep-18,10 Things I Hate About You,Laci Mosley,Yes,1.5 (D); 1.5 (L); 1.5 (G),4.5,1.5,1.5,1.5,Rom-com,Rom-com,1.5,1.5
+99,13-Sep-18,The Lord of the Rings Trilogy - Part 2,Anna Salinas,No,.5 (D); .1 (L) .25 (G),0.85,0.5,1,0.25,Fantasy,"Fantasy, adventure",0.583333333,0.75
+100,20-Sep-18,Edward Scissorhands,Maggie Mae Fish,Yes,2 (D); 2 (L); 2 (G),6,2,2,2,Fantasy,"Fantasy, romance",2,2
+101,27-Sep-18,She's the Man,Samee Junio,Yes,3 (D); 3.5 (L); 3.5 (G),10,3,3.5,3.5,Rom-com,"Rom-com, sports",3.333333333,3.25
+102,4-Oct-18,Carrie (1976),Eva Vives,Yes,2.5 (D); 2.5 (L); 2 (G),7,2.5,2.5,2,Horror,Horror,2.333333333,2.5
+103,11-Oct-18,Raiders of the Lost Ark - 100 Episode Spectacular!,None,No,.25 (D) .25 (L) N/A (G),.75 (W)[5] .5 (C),0.25,0.25,NaN,Action,"Action, adventure",0.25,0.25
+104,16-Oct-18,A Star Is Born (2018),Anna Hossnieh,Yes,2 (D); 1.5 (L); 2 (G),5.5,2,1.5,2,Drama,"Romance, drama, musical",1.833333333,1.75
+105,18-Oct-18,Halloween (1978),April Wolfe,Yes,2.5 (D); 2 (L); 3 (G),7.5,2.5,2,3,Horror,"Horror, slasher",2.5,2.25
+106,25-Oct-18,Scream,Joan Ford,Yes,3 (D); 3 (L); 4 (G),10,3,3,4,Horror,"Horror, satire, slasher",3.333333333,3
+107,1-Nov-18,Cruel Intentions,Jackie Johnson,Yes,0 (D); [-]1 (L); 0 (G),[-]1,0,0,0,Romance,"Romance, teen, drama",0,0
+108,6-Nov-18,Election,Natasha Chandel,Yes,2.5 (D); 3.5 (L); 3 (G),9,2.5,3.5,3,Comedy,Black comedy,3,3
+109,15-Nov-18,Gentleman Prefer Blondes,Karina Longworth,Yes,2 (D); 3.5 (L); 4 (G),9.5,2,3.5,4,Comedy,"Comedy, musical",3.166666667,2.75
+111,29-Nov-18,Miss Congeniality,None,Yes,3 (D); 3.75 (L); N/A (G),10.13 (W) 6.75 (C),3,3.75,NaN,Comedy,Comedy,3.375,3.375
+112,6-Dec-18,The Nightmare Before Christmas,Natalie McGill,No,.5 (D); .5 (L); [-]2 (G),[-]1,0.5,0.5,0,Fantasy,"Animated, fantasy ",0.333333333,0.5
+113,13-Dec-18,Gremlins,Moujan Zolfaghari,No,.5 (D); .5 (L); .5 (G),1.5,0.5,0.5,0.5,Horror,"Horror, comedy",0.5,0.5
+114,20-Dec-18,Elf,Mara Wilson,No,.5 (D); 1 (L); 1.5 (G),3,0.5,1,1.5,Comedy,"Comedy, Christmas",1,0.75
+115,27-Dec-18,Waiting to Exhale,Errin Haines Whack,Yes,2.5 (D); 2.5 (L); 2 (G),7,2.5,2.5,2,Romance,Romance,2.333333333,2.5
+116,3-Jan-19,The Princess Diaries,Marcia Belsky,Yes,2 (D); 3 (L); 3.5 (G),8.5,2,3,3.5,Comedy,"Comedy, teen",2.833333333,2.5
+117,10-Jan-19,Erin Brockovich,Alfred Molina,Yes,3.5 (D); 4 (L); 3 (G),10.5,3.5,4,3,Drama,"Drama, biographical drama",3.5,3.75
+118,17-Jan-19,The Fifth Element,Danielle Radford,No,.5 (D); .5 (L); 1 (G),2,0.5,0.5,1,Sci-fi,"Sci-fi, action",0.666666667,0.5
+119,24-Jan-19,My Big Fat Greek Wedding,George Civeris,Yes,2 (D); 3.5 (L); 5 (G),10.5,2,3.5,5,Rom-com,Rom-com,3.5,2.75
+120,31-Jan-19,Fatal Attraction,Soraya Chemaly,Yes,0 (D); 0 (L); 0 (G),0,0,0,0,Thiller,Thriller,0,0
+121,7-Feb-19,What Women Want,Laci Mosley,No,0 (D); 0 (L); 1 (G),1,0,0,1,Rom-com,"Rom-com, fantasy",0.333333333,0
+122,14-Feb-19,D.E.B.S.,Ellie Brigida and Leigh Holmes Foster,Yes,4 (D); 3.75 (L); 3.5 (G-B) 3.5 (G-HF),11.25 (W) 14.75 (C),4,3.75,3.5,Action,"Action, comedy",3.75,3.875
+123,21-Feb-19,Romy and Michelle's High School Reunion,Danielle Perez,Yes,3 (D); 3 (L); 5 (G),11,3,3,5,Comedy,Comedy,3.666666667,3
+124,28-Feb-19,The Breakfast Club,None,Yes,1.5 (D); .5 (L); N/A (G),3 (W) 2 (C),1.5,0.5,NaN,Comedy,"Comedy, teen",1,1
+125,7-Mar-19,The Devil Wears Prada,Amy Lam,Yes,2 (D); 2 (L); 3.5 (G),7.5,2,2,3.5,Comedy,"Comedy, drama",2.5,2
+126,14-Mar-19,Captain Marvel,Carolyn Cocca,Yes,4.5 (D); 4 (L); 4.25 (G),12.75,4.5,4,4.25,Action,"Action, superhero",4.25,4.25
+127,21-Mar-19,Fight Club,Katie Nguyen,No,0 (D); 0 (L); 0 (G),0,0,0,0,Drama,Drama ,0,0
+128,28-Mar-19,The Little Mermaid,Clara Pluton,Yes,.5 (D); .5 (L); 1 (G),2,0.5,0.5,1,Animated,"Animated, fantasy ",0.666666667,0.5
+129,4-Apr-19,Rosemary's Baby,Jessica Harper,Yes,2.5 (D); 2.5 (L); 2.5 (G),7.5,2.5,2.5,2.5,Horror,Horror ,2.5,2.5
+130,11-Apr-19,Sleepless in Seattle,Andy Iwancio,Yes,.5 (D); 1.5 (L); 2 (G),4,0.5,1.5,2,Rom-com,Rom-com,1.333333333,1
+131,18-Apr-19,40 Days and 40 Nights,Arielle Isaac Norman,No,[-]40/[-]40[6] (D); [-]40/[-]40[7] (L); [8] (G),N/A,0,0,NaN,Rom-com,Rom-com,0,0
+132,25-Apr-19,The Avengers,Anney Reese,No,1.5 (D); 1.5 (L); 1.5 (G),4.5,1.5,1.5,1.5,Action,"Action, superhero",1.5,1.5
+133,2-May-19,Pleasantville,Jessie Maltin and Leonard Maltin,Yes,3 (D); 4 (L); 4 (G-JM) 4 (G-LM),11 (W) 15 (C),3,4,4,Comedy,"Comedy, fantasy, drama",3.666666667,3.5
+134,9-May-19,Casino Royale,Kenice Mobley,No,0 (D); .5 (L); .5 (G),1,0,0.5,0.5,Action,Action,0.333333333,0.25
+135,16-May-19,Bring It On,Maggie Maye,Yes,2 (D); 2.5 (L); 2 (G),6.5,2,2.5,2,Comedy,"Comedy, teen",2.166666667,2.25
+136,23-May-19,Paddington & Paddington 2,Demi Adejuyigbe,Yes/No,3 (D); 3 (L); 3 (G),9,3,3,3,Fantasy,Fantasy,3,3
+137,30-May-19,13 Going on 30,Melissa Lozada-Oliva,Yes,2.5 (D); 2.5 (L); 4 (G),9,2.5,2.5,4,Rom-com,Rom-com,3,2.5
+138,6-Jun-19,Carol,Lauren Flans and Nicole Pacent,Yes,4 (D); 4 (L); 4 (G-F) 3 (G-P),11.5 (W) 15 (C),4,4,3.5,Drama,"Romance, drama",3.833333333,4
+139,13-Jun-19,Booksmart,Vanessa Chester,Yes,4.25 (D); 3.75 (L); 3.75 (G),11.75,4.25,3.75,3.75,Comedy,"Comedy, teen",3.916666667,4
+140,20-Jun-19,Toy Story,Sadie Dupuis,No,.5 (D); .5 (L); .7 (G),1.7,0.5,0.5,0.7,Fantasy,"Animated, fantasy ",0.566666667,0.5
+141,27-Jun-19,"Love, Simon",Matt Rogers,No,3.5 (D); 4 (L); 5 (G),12.5,3.5,4,5,Rom-com,Rom-com,4.166666667,3.75
+142,4-Jul-19,Independence Day,Lindsay Ellis,Yes,.5 (D); 1 (L); 2 (G),3.5,0.5,1,2,Action,"Sci-fi, action",1.166666667,0.75
+143,11-Jul-19,It Takes Two,Catherine Cohen and Pat Regan,Yes,1 (D); 1 (L); 1 (G-C) 2 (G-R),3.5 (W) 5 (C),1,1,1.5,Comedy,Comedy,1.166666667,1
+144,18-Jul-19,Lion King (1994),Naomi Ekperigin,No,.5 (D); .5 (L); .5 (G),1.5,0.5,0.5,0.5,Fantasy,"Animated, fantasy ",0.5,0.5
+145,25-Jul-19,First Wives Club,Caitlin Gill,Yes,3 (D); 3 (L); 4 (G),10,3,3,4,Comedy,Comedy ,3.333333333,3
+146,1-Aug-19,The Fast and the Furious,Faye Orlove,Yes,.5 (D); 1 (L); 2.5 (G),4,0.5,1,2.5,Action,Action,1.333333333,0.75
+147,8-Aug-19,A Little Princess,Joelle Monique,Yes,3.5 (D); 3.5 (L); 3.5 (G),10.5,3.5,3.5,3.5,Drama,Drama,3.5,3.5
+148,15-Aug-19,Anastasia,Anna Seregina,Yes,3 (D); 3.5 (L); 2.5 (G),10,3,3.5,2.5,Fantasy,"Animated, fantasy ",3,3.25
+149,22-Aug-19,Good Will Hunting,Ayo Edebiri,No,1 (D); .5 (L); 0 (G),1.5,1,0.5,0,Drama,Drama,0.5,0.75
+150,29-Aug-19,There's Something About Mary,Katy Stoll,Yes,0 (D); [-]2 (L); 0 (G),[-]2,0,0,0,Rom-com,Rom-com,0,0
+151,5-Sep-19,Spy Kids,Katherine Leon,Yes,3 (D); 3.5 (L); 4 (G),10.5,3,3.5,4,Action,Action,3.5,3.25
+152,12-Sep-19,Sex and the City,Megan Gailey,Yes,1.5 (D); .5 (L); 2 (G),4,1.5,0.5,2,Rom-com,Rom-com,1.333333333,1
+153,19-Sep-19,Frances Ha,Christina Catherine Martinez,Yes,3.5 (D); 4[9] (L); 4 (G),11.5,3.5,4,4,Comedy,"Comedy, drama",3.833333333,3.75
+154,26-Sep-19,The Hunger Games,Kelly Nugent and Lindsay Katai,Yes,3 (D); 3.5 (L); 3.75 (G-N) 4 (G-K),10.38 (W) 14.25 (C),3,3.5,3.875,Action,"Action, dystopian",3.458333333,3.25
+155,3-Oct-19,The Dark Knight,Pallavi Gunalan,Yes,.5 (D); .5 (L); .5 (G),1.5,0.5,0.5,0.5,Action,"Action, superhero",0.5,0.5
+156,10-Oct-19,The Addams Family,Dani Fernandez and Ify Nwadiwe,Yes,3.5 (D); 3.5 (L); 4 (G-F) 3.5 (G-N),10.75 (W) 14.5 (C),3.5,3.5,3.625,Comedy,"Black comedy, fantasy ",3.541666667,3.5
+157,17-Oct-19,Practical Magic,None,Yes,3.25 (D); 3.25 (L) N/A (G),9.75 (W) 6.5 (C),3.25,3.25,NaN,Rom-com,"Rom-com, fantasy",3.25,3.25
+158,24-Oct-19,Rocky Horror Picture Show,Joan Haley Ford,No,1.5 (D); 1.5 (L) 1.5 (G),4.5,1.5,1.5,1.5,Musical,Comedy horror ,1.5,1.5
+159,31-Oct-19,The Shining,Corie Johnson,No,2.5 (D); 2 (L) 2 (G),6.5,2.5,2,2,Horror,Horror,2.166666667,2.25
+160,7-Nov-19,Easy A,Isa Mazzei,Yes,2.5 (D); 2.5 (L) 2.5 (G),7.5,2.5,2.5,2.5,Rom-com,Rom-com,2.5,2.5
+161,14-Nov-19,Charlie's Angels,Sasheer Zamata,Yes,1.5 (D); 1 (L); 2 (G),4.5,1.5,1,2,Action,"Action, comedy",1.5,1.25
+162,21-Nov-19,Brave,Rachel Anne Clarke,Yes,3.75 (D); 3.75 (L); 3 (G),10.5,3.75,3.75,3,Fantasy,"Animated, fantasy ",3.5,3.75
+164,5-Dec-19,The Terminator,None,Yes,1.5 (D); 1(L); N/A (G),3.75/10.5 (W) 2.5/7 (C),1.5,1,NaN,Action,"Sci-fi, action",1.25,1.25
+164,5-Dec-19,Terminator 2: Judgment Day,None,No,3 (D); 4 (L),7,3,4,NaN,Action,"Sci-fi, action",3.5,3.5
+165,12-Dec-19,Home Alone,Tamara Yajia,No,1.5 (D); 1.5 (L); 2 (G),5,1.5,1.5,2,Comedy,"Comedy, Christmas",1.666666667,1.5
+167,20-Dec-19,The Santa Clause Part 2,Grace Thomas,No,.5 (D); 1.5 (L); 2 (G),4,0.5,1.5,2,Fantasy,"Christmas, fantasy, comedy",1.333333333,1
+168,26-Dec-19,Little Women (1994),Debra DiGiovanni,Yes,3.75 (D); 3.5 (L); 3.5 (G),10.75,3.75,3.5,3.5,Drama,"Drama, coming-of-age",3.583333333,3.625
+170,9-Jan-20,Now and Then,Callie Biggerstaff,Yes,4 (D); 4 (L); 4 (G),12,4,4,4,Comedy,"Comedy, drama, teen",4,4
+171,16-Jan-20,Cats (2019),Katie Goldin,Yes,2.5 (D); 3 (L); 2 (G),7.5,2.5,3,2,Musical,"Musical, fantasy",2.5,2.75
+172,23-Jan-20,Bad Boys (1995),Laci Mosley,Yes,.25 (D); .5 (L); .5 (G),1.25,0.25,0.5,0.5,Action,"Action, comedy",0.416666667,0.375
+173,30-Jan-20,Fast Times at Ridgemont High,Paige Weldon and Emily Faye,No,2 (D); 1.5 (L); 2 (G-W) 3 (G-F),6 (W) 8.5 (C),2,1.5,2.5,Comedy,"Comedy, drama, teen",2,1.75
+174,6-Feb-20,Sister Act,Nithya Raman,Yes,4.5 (D); 4.5 (L); 5 (G),14,4.5,4.5,5,Comedy,"Comedy, musical",4.666666667,4.5
+175,13-Feb-20,Love & Basketball,Zainab Johnson,Yes,3.75 (D); 3.75 (L); 4 (G),11.5,3.75,3.75,4,Romance,"Romance, sports",3.833333333,3.75
+176,20-Feb-20,Center Stage,Akilah Hughes,Yes,2.5 (D); 2.5 (L); 2 (G),7,2.5,2.5,2,Drama,"Drama, teen",2.333333333,2.5
+177,27-Feb-20,The Princess and the Frog,Lexie Grace,Yes,1.5 (D); 1.5 (L); 1.5 (G),4.5,1.5,1.5,1.5,Fantasy,"Animated, fantasy",1.5,1.5
+178,5-Mar-20,The Social Network,Demi Adejuyigbe,No,.5 (D); .5 (L); .5 (G),1.5,0.5,0.5,0.5,Drama,"Drama, biographical drama",0.5,0.5
+179,12-Mar-20,The Sixth Sense,None,Yes,1.5 (D); 1.5 (L); N/A (G),4.5 (W) 3 (C),1.5,1.5,NaN,Horror,Horror,1.5,1.5
+180,19-Mar-20,Black Swan,Hunter Harris,Yes,2.5 (D); 3.5 (L); 4 (G),10,2.5,3.5,4,Horror,Horror,3.333333333,3
+181,26-Mar-20,Mulan,Ceda Xiong,No,3 (D); 3.5 (L); 3 (G),9.5,3,3.5,3,Fantasy,"Animated, fantasy",3.166666667,3.25
+182,2-Apr-20,National Treasure,None,No,.5 (D); .5 (L); N/A (G),1.5 (W) 1 (C),0.5,0.5,NaN,Adventure,"Action, adventure",0.5,0.5
+183,9-Apr-20,Austin Powers: International Man of Mystery,Atsuko Okatsuka,No,0 (D); 0 (L); [-]1 (G),[-]1,0,0,0,Comedy,"Action, comedy",0,0
+184,16-Apr-20,All About Eve,Sara June,Yes,3 (D); 3.75 (L); 4 (G),10.75,3,3.75,4,Drama,Drama,3.583333333,3.375
+185,23-Apr-20,Clue,None,No,1.5 (D); 1.5 (L); N/A (G),4.5 (W) 3 (C),1.5,1.5,NaN,Comedy,"Black comedy, mystery",1.5,1.5
+186,30-Apr-20,Wayne's World,Maureen Bharoocha,No,1.5 (D); 1.5 (L); 2 (G),5,1.5,1.5,2,Comedy,Comedy,1.666666667,1.5
+187,7-May-20,Bad Moms,None,Yes,2 (D); 2 (L); N/A (G),6 (W) 4 (C),2,2,NaN,Comedy,Comedy,2,2
+188,14-May-20,Little Miss Sunshine,None,Yes,3.5 (D); 3.5 (L); N/A (G),10.5 (W) 7 (C),3.5,3.5,NaN,Comedy,"Comedy, drama, road trip",3.5,3.5
+189,21-May-20,Birds of Prey,Emily Yoshida,Yes,4.5 (D); 4.25 (L); 4.25 (G),13,4.5,4.25,4.25,Action,"Action, superhero",4.333333333,4.375
+190,28-May-20,Legally Blonde,None,Yes,3 (D); 2.5 (L); N/A (G),8.25 (W) 5.5 (C),3,2.5,NaN,Rom-com,Rom-com,2.75,2.75
+193,18-Jun-20,Harriet the Spy,Jenna Ushkowitz,Yes,4 (D); 4 (L); 4 (G),12,4,4,4,Drama,"Drama, biographic drama",4,4
+194,25-Jun-20,Tangerine,"Kai Choyce, Violet Gray, and Dahile Belle",Yes,4.5 (D); 4.25 (L); 4 (G-C),12.75,4.5,4.25,4,Drama,"Comedy, drama",4.25,4.375
+195,9-Jul-20,Set It Off,Jourdain Searles,Yes,4 (D); 4 (L); 4 (G),12,4,4,4,Action,"Action, heist",4,4
+196,16-Jul-20,The Witch,Jana Schmieding,Yes,1 (D); 1 (L); 1 (G),3,1,1,1,Horror,Horror,1,1
+197,23-Jul-20,Space Jam,Princess Weekes,No,1 (D); 1.5 (L); 2 (G),4.5,1,1.5,2,Comedy,"Comedy, sports",1.5,1.25
+198,30-Jul-20,Cheetah Girls,Korama Danquah,Yes,4 (D); 4 (L); 3.5 (G),11.5,4,4,3.5,Drama,"Drama, musical",3.833333333,4
+199,6-Aug-20,Secretary,Ashley Ray,Yes,1 (D); 1.5 (L); 2 (G),4.5,1,1.5,2,Drama,"Drama, romance, comedy",1.5,1.25
+200,13-Aug-20,"I, Tonya",None,Yes,5 (D); 4 (L); N/A (G),13.5 (W) 9 (C),5,4,NaN,Drama,"Sports, black comedy",4.5,4.5
+201,20-Aug-20,Frozen II,Ali Nahdee,Yes,4 (D); 3.75 (L); 4 (G),11.75,4,3.75,4,Fantasy,"Animated, fantasy",3.916666667,3.875
+202,27-Aug-20,Fried Green Tomatoes,Francesca Fiorentini,Yes,3 (D); 3 (L); 4 (G),10,3,3,4,Drama,"Comedy, drama",3.333333333,3
+203,3-Sep-20,Inception,None,No,.5 (D); .5 (L); N/A (G),1.5 (W) 1 (C),0.5,0.5,NaN,Action,"Action, sci-fi",0.5,0.5
+204,10-Sep-20,Ghost World,Julie Klausner,Yes,2.5 (D); 2.5 (L); N/A[10] (G),7.5 (W) 5 (C),2.5,2.5,NaN,Comedy,Black comedy,2.5,2.5
